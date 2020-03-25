@@ -1,6 +1,8 @@
 # Patternite - DevPleno
 Um repositório sobre o vídeo do canal "DevPleno", onde é falado sobre essa vontade de alguns programadores de querer aplicar Pattern em tudo
 
+Você consegue acessar o link para o vídeo clicando [aqui](https://www.youtube.com/watch?v=v0c_02nrMZI)
+
 ## Getting started
 Tendo o `NodeJS ` instalado:
 1. Baixe o repositório (pode ser em .zip mesmo)
