@@ -6,8 +6,9 @@ Tendo o `NodeJS ` instalado:
 1. Baixe o repositório (pode ser em .zip mesmo)
 2. Extraia o repositório
 3. Abra o `cmd` na pasta do repositório
-4. Digite `npm start`
-5. Aperte [aqui](http://localhost:3000)
+4. Digite `npm install` e espere carregar
+5. Digite `npm start`
+6. Aperte [aqui](http://localhost:3000)
 
 # Anotações:
 ## Como Criar uma Rota?
